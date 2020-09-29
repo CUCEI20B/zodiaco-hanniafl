@@ -1,54 +1,53 @@
 dia=mes=0
 
-dia=int(input("Ingresa tu dia de nacimiento: "))
-mes=int(input("Ingresa tu mes de nacimiento: "))
+dia=int(input())
+mes=int(input())
 
 if dia>=22 and dia<=31 and mes==12:
-    print("Capricornio")
+    print("capricornio")
 elif dia<=20 and dia>=1 and mes==1:
-    print("Capricornio")
+    print("capricornio")
 if dia>=21 and dia<=31 and mes==1:
-    print("Acuario")
+    print("acuario")
 elif dia<=19 and dia>=1 and mes==2:
-    print("Acuario")
+    print("acuario")
 if dia>=20 and dia<=28 and mes==2:
-    print("Piscis")
+    print("piscis")
 elif dia<=20 and dia>=1 and mes==3:
-    print("Piscis")
+    print("piscis")
 if dia>=21 and dia<=31 and mes==3:
-    print("Aries")
+    print("aries")
 elif dia<=20 and dia>=1 and mes==4:
-    print("Aries")
+    print("aries")
 if dia>=21 and dia<=30 and mes==4:
-    print("Tauro")
+    print("tauro")
 elif dia<=21 and dia>=1 and mes==5:
-    print("Tauro")
+    print("tauro")
 if dia>=22 and dia<=31 and mes==5:
-    print("Geminis")
+    print("geminis")
 elif dia<=21 and dia>=1 and mes==6:
-    print("Geminis")
+    print("geminis")
 if dia>=22 and dia<=30 and mes==6:
-    print("Cancer")
+    print("cancer")
 elif dia<=22 and dia>=1 and mes==7:
-    print("Cancer")
+    print("cancer")
 if dia>=23 and dia<=31 and mes==7:
-    print("Leo")
+    print("leo")
 elif dia<=23 and dia>=1 and mes==8:
-    print("Leo")
+    print("leo")
 if dia>=24 and dia<=31 and mes==8:
-    print("Virgo")
+    print("virgo")
 elif dia<=22 and dia>=1 and mes==9:
-    print("Virgo")
+    print("virgo")
 if dia>=23 and dia<=30 and mes==9:
-    print("Libra")
+    print("libra")
 elif dia<=22 and dia>=1 and mes==10:
-    print("Libra")
+    print("libra")
 if dia>=23 and dia<=31 and mes==10:
-    print("Escorpio")
+    print("escorpio")
 elif dia<=21 and dia>=1 and mes==11:
-    print("Escorpio")
+    print("escorpio")
 if dia>=22 and dia<=30 and mes==11:
-    print("Sagitario")
+    print("sagitario")
 elif dia<=21 and dia>=1 and mes==12:
-    print("Sagitario")
-    
+    print("sagitario")
